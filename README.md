@@ -11,3 +11,5 @@
 - Horizon Zero Dawn
 - Spider-Man
 - Spider-Man - Miles Morales
+- Elden Ring
+- Metal Gear Solid V
