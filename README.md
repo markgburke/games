@@ -6,7 +6,7 @@
 
 ## great games finished
 
-Witcher 3 - The Wild Hunt
-Horizon Zero Dawn
-Spider-Man
-Spider-Man - Miles Morales
+- Witcher 3 - The Wild Hunt
+- Horizon Zero Dawn
+- Spider-Man
+- Spider-Man - Miles Morales
